@@ -1,6 +1,8 @@
 # Hi, I'm Ahmed Eid  👋 
 
-## Front End Reactjs Developer, and Instructor !!
+<h1 align="center">
+        <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&color=4DD421&lines=Hey!+I'm+Ahmed;Front+end+developer;" alt="A7MED-3ID" />
+        </h1>
 
 
 ### Connect with me:
