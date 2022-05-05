@@ -76,6 +76,21 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 ```
 
 
+
+
+
+
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-ibrahim-30&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="ahmed-ibrahim-30" /></p>
+ <h1 align="center"></h1>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-ibrahim-30&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="ahmed-ibrahim-30" /></p>
+
+
+
+
+
+
+
 <h1 align="center"></h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=A7MED-3ID&label=Profile%20views&color=0e75b6&style=flat" width="200" alt="A7MED-3ID" /> </p>
