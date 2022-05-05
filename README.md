@@ -46,9 +46,10 @@
 
 
 
- <h1 align="center"></h1>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-ibrahim-30&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="ahmed-ibrahim-30" /></p>
- <h1 align="center"></h1>
+<br> 
+<img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="30%" />
+<br>
+<a><img align="left" width="150" height="146" src="https://raw.githubusercontent.com/M0nica/M0nica/main/octomonica/m0nica-octocat-rotating.gif"></a><br> <br>
 
 
 
