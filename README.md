@@ -80,8 +80,6 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 
  <h1 align="center"></h1>
-
-
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=A7MED-3ID&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="A7MED-3ID" /></p>
  <h1 align="center"></h1>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=A7MED-3ID&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="A7MED-3ID" /></p>
