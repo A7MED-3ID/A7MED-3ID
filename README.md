@@ -68,6 +68,12 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
 
+
+<h1 align="center"></h1>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=A7MED-3ID&label=Profile%20views&color=0e75b6&style=flat" width="200" alt="A7MED-3ID" /> </p>
+ <h1 align="center"></h1>
+
 ⭐️ From [AhmedEid](https://github.com/A7MED-3ID)
 © 2022 GitHub, Inc.
 Terms
