@@ -3,10 +3,10 @@
 <tr valign="top">
 <td width="65%">
 
-### Hi there, Mohamed here ??
+### Hi there, Ahmed here ??
 I'am a Backend Software Engineer. I love creating open-source packages and playing with languages and libraries by creating my own frameworks & Tools. Also, love to read other frameworks & packages code to learn from them.
 
-- ?? I’m currently working on [Convertedin](https://github.com/convertedin).
+- ?? I’m currently working as a online Freelancer on Upwork.
 - ?? I’m currently learning  **Golang, Clean Arcitecture, Algorithms&DS, System Design, and Designing Data Intensive Applications**.
 - ?? Ask me about **Backend Engineering related stuff**
 
