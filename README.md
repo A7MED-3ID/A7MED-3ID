@@ -54,33 +54,6 @@ alt="mohamed-samir907 :: Top Langs by commit" />
 </tr>
 </table
 
-<table>
-<tr>
-<td colspan="3">
-
-#### Popular Projects & Packages
-
-</td>
-</tr>
-
-<tr>
-<td>
-<a href="https://github.com/msam1r/kallbaz-db">
-<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=msam1r&repo=kallbaz-db">
-</a>
-</td>
-<td>
-<a href="https://github.com/msam1r/kallbaz-db">
-<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=msam1r&repo=kallbaz-db">
-</a>
-</td>
-<td>
-<a href="https://github.com/msam1r/kallbaz-db">
-<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=msam1r&repo=kallbaz-db">
-</a>
-</td>
-</tr>
-</table>
 Footer
 © 2023 GitHub, Inc.
 Footer navigation
