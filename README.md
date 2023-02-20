@@ -1,102 +1,89 @@
 # Hi, I'm Ahmed Eid  👋 
+<table>
+<tr valign="top">
+<td width="65%">
 
-<h1 align="center">
-        <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&color=4DD421&lines=Hey!+I'm+Ahmed;Front+end+reactjs;" alt="A7MED-3ID" />
-        </h1>
+### Hi there, Mohamed here ??
+I'am a Backend Software Engineer. I love creating open-source packages and playing with languages and libraries by creating my own frameworks & Tools. Also, love to read other frameworks & packages code to learn from them.
 
+- ?? I’m currently working on [Convertedin](https://github.com/convertedin).
+- ?? I’m currently learning  **Golang, Clean Arcitecture, Algorithms&DS, System Design, and Designing Data Intensive Applications**.
+- ?? Ask me about **Backend Engineering related stuff**
 
-### Connect with me:
+<!--
+- ?? How to reach me: ...
+- ?? Pronouns: ...
+- ? Fun fact: ...
+- ?? I’m looking to collaborate on ...
+- ?? I’m looking for help with ...
+- ?? ’m available for freelancing.
+-->
+  
+#### Skills
+PHP, MySQL, Go, Laravel, Linux
+  
+#### Popular Platforms && SDKs I worked with
+- **Google** (Google Ads API, Google Adwords API, Google Content API, Google Auth)
+- **Facebook** (Facebook Marketing API, WhatsApp Cloud API, Pixel API, Graph API, Login API)
+- **Snapchat** (Snapchat Marketing API)
+- **TikTok** (TikTok Ads/Marketing API)
+- **Shopify** (Create Application, Manage Shops)
+- **BigCommerce** (Create Application, Manage Shops)
 
+#### Contant With Me
+- Facebook
+- Linkedin
+- Twitter
 
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/A7MED_3ID_3)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ay989992@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-eid-abdul-rouf-55b983162/)
+</td>
+<td width="35%">
 
+#### Count Visitors
+<img src="https://profile-counter.glitch.me/mohamed-samir907/count.svg" alt="Count Visitors">
 
+<img src="https://github-readme-stats.vercel.app/api?username=mohamed-samir907&show_icons=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-samir907&hide_border=false" />
 
-#### Languages and Tools:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-samir907&layout=compact">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamed-samir907&layout=compact&hide_border=true" alt="mohamed-samir907 :: Top Langs by repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohamed-samir907&layout=compact&hide_border=true"
+alt="mohamed-samir907 :: Top Langs by commit" />
+<!-- <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mohamed-samir907&badges=3"> -->
 
+</td>
+</tr>
+</table
 
+<table>
+<tr>
+<td colspan="3">
 
-<img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="30%" />
+#### Popular Projects & Packages
 
+</td>
+</tr>
 
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-
-
-
-
-
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-
-
-<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-
-
-
-
-<img align="left" alt="Jquery" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="padding-right:10px;" />
-
-
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-
-
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
-
-
-
-
-<br>
-
-
-
-<br />
-<br />
-
-
-
-
-
-
-
-##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
-<!-- wi*quL3fcV -->
-
-```javascript
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
->>> [ '🐔', '🐣', '🐥', '🥚' ]
-```
-
-
-
-
-
- <h1 align="center"></h1>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=A7MED-3ID&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="A7MED-3ID" /></p>
- <h1 align="center"></h1>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=A7MED-3ID&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="A7MED-3ID" /></p>
-
-
-
-
-
-
-
-<h1 align="center"></h1>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=A7MED-3ID&label=Profile%20views&color=0e75b6&style=flat" width="200" alt="A7MED-3ID" /> </p>
- <h1 align="center"></h1>
-
-⭐️ From [AhmedEid](https://github.com/A7MED-3ID)
-© 2022 GitHub, Inc.
+<tr>
+<td>
+<a href="https://github.com/msam1r/kallbaz-db">
+<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=msam1r&repo=kallbaz-db">
+</a>
+</td>
+<td>
+<a href="https://github.com/msam1r/kallbaz-db">
+<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=msam1r&repo=kallbaz-db">
+</a>
+</td>
+<td>
+<a href="https://github.com/msam1r/kallbaz-db">
+<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=msam1r&repo=kallbaz-db">
+</a>
+</td>
+</tr>
+</table>
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
 Terms
 Privacy
 Security
@@ -108,3 +95,4 @@ API
 Training
 Blog
 About
+mohamed-samir907/README.md at
