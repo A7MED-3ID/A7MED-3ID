@@ -28,7 +28,7 @@ PHP, MySQL, Go, Laravel, Linux
 - **Snapchat** (Snapchat Marketing API)
 - **TikTok** (TikTok Ads/Marketing API)
 - **Shopify** (Create Application, Manage Shops)
-- **BigCommerce** (Create Application, Manage Shops)
+- **BigCommerce** (Create Application, Manage Shopss)
 
 #### Contant With Me
 - Facebook
@@ -68,4 +68,4 @@ API
 Training
 Blog
 About
-mohamed-samir907/README.md at
+A7MED-3ID/README.md at
