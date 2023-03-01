@@ -45,9 +45,8 @@ PHP, MySQL, Go, Laravel, Linux
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=A7MED-3ID&hide_border=false" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A7MED-3ID&layout=compact">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A7MED-3ID&layout=compact&hide_border=true" alt="A7MED-3ID :: Top Langs by repo" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=A7MED-3ID&layout=compact&hide_border=true"
-alt="mohamed-samir907 :: Top Langs by commit" />
+
+
 
 
 </td>
